@@ -7,3 +7,5 @@ O projeto foca em construir soluções usando:
 - Estrutura de dados e de código
 - Lista encadeada para interligar e formar os grafos
 - Ordenação
+
+OBS: Esses projetos e codigos estão estruturados, mas não seguem ainda o método SOLID
