@@ -1,4 +1,4 @@
-# Projetos criados em aula, focados em metodos de baixo nível de Busca, ordenação e heristicas e estruturas de grafos e arvores.
+# Projetos criados em aula, focados em metodos de baixo nível de Busca, ordenação e heristicas, estruturas de grafos e arvores.
 Essa pasta contem alguns projetos feitos em C das matérias Algoritmos e Estrutura de Dados I e II.
 
 O projeto foca em construir soluções usando:
