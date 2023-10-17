@@ -1,3 +1,7 @@
+APAGAR -PEGORINI
+https://github.com/viniciuspegorini/pw25s/tree/main/client
+
+
 # Projetos criados em aula, focados em metodos de baixo nível de Busca, ordenação e heristicas, estruturas de grafos e arvores.
 Essa pasta contem alguns projetos feitos em C das matérias Algoritmos e Estrutura de Dados I e II.
 
